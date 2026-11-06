@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" stroke-linecap="round">
+  <rect width="48" height="48" rx="10" fill="#1f2328"/>
+  <g transform="translate(9 38) rotate(-48) scale(0.95)">
+    <path fill="#ffffff" d="M-2 -11 C8 -13 20 -12 29 -8 C36 -6 41 -3 45 -0.5 C42 1.8 35.5 3 29 4.5 L13 7.5 L29 19 C24 21.5 15 21 6 18.5 C2 17.5 -1 16 -2 15 Z"/>
+    <path fill="#1f2328" fill-opacity="0.55" d="M29 4.5 L13 7.5 L29 19 C31 15 31 9 29 4.5 Z"/>
+    <path fill="#ffffff" d="M28.6 4.6 L26.8 1.7 L26.2 5.0 Z M25.7 5.1 L23.9 2.2 L23.3 5.6 Z M22.8 5.7 L21.1 2.7 L20.5 6.1 Z M19.9 6.2 L18.2 3.3 L17.6 6.6 Z M17.1 6.7 L15.3 3.8 L14.7 7.2 Z M15.3 9.1 L18.0 7.4 L17.1 10.5 Z M18.5 11.4 L21.2 9.7 L20.3 12.8 Z M21.7 13.7 L24.4 12.0 L23.5 15.1 Z M24.9 16.0 L27.6 14.3 L26.7 17.4 Z"/>
+    <path fill="none" stroke="#1f2328" stroke-width="1" d="M8 -7 C7.3 -4.5 7.3 -2 8 0 M11 -7.5 C10.3 -5 10.3 -2.5 11 -0.5 M14 -7.8 C13.3 -5.3 13.3 -2.8 14 -0.8"/>
+    <circle cx="30.5" cy="-3.2" r="1.5" fill="#1f2328"/>
+  </g>
+  <path fill="#ffffff" stroke="#1f2328" stroke-width="2" d="M0 35 C4 32.5 8 33 12 35.5 C16 38 20 38 24 35.5 C28 33 32 33 36 35.5 C40 38 44 37.5 48 34.5 L48 48 L0 48 Z"/>
+  <path fill="none" stroke="#1f2328" stroke-width="1" d="M5 42 C8.5 40 12 40 15.5 42 M29 42.5 C32.5 40.5 36 40.5 39.5 42.5"/>
+</svg>
